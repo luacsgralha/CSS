@@ -1,0 +1,52 @@
+body{
+    background-color: burlywood;
+
+}
+
+
+main{
+    margin: auto;
+    max-width: 1000px;
+}
+
+
+.flex{
+    display: flex;
+}
+
+
+.flex2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.flex3{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+}
+
+.caixa1{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+}
+
+
+.caixa2{
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}    
+
+
+.caixa3{
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+

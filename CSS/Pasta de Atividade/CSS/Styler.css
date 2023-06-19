@@ -1,0 +1,15 @@
+.caixa{
+    border: 5px solid black;
+    height: 50px;
+    padding: 20px;
+
+}
+
+
+.caixa2{
+    display:flex ;
+    border: 5px solid black;
+    padding: 100px;
+    left: 25px;
+}
+

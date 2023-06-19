@@ -1,0 +1,38 @@
+main{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 960px;
+}
+header{
+    border: 1px solid black;
+    height: 130px;
+    width: 100%;
+}
+
+section{
+    display: flex;
+    max-width: 100%;
+}
+nav{
+    border: 1px solid black;
+    height: 350px;
+    width: 350px;
+}
+article{
+    border: 1px solid black;
+  
+    width: 650px;
+}
+aside{
+    border: 1px solid black;
+    height: 350px;
+    width: 350px;
+    flex-wrap: wrap;
+}
+footer{
+    border: 1px solid black;
+    height: 250px;
+    width: 100%;
+}

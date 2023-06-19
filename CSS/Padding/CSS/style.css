@@ -1,0 +1,29 @@
+body{
+    background-color: #262737; 
+    color: aliceblue;
+}
+
+section{
+    border: 1px solid blue;
+    padding: 70px;
+}
+article h1{
+    text-align:center;
+}
+article .main{
+    text-align: right;
+}
+
+article .boxpadding{
+    border: 1px solid blue
+    padding-top:50px;
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-left:80px;
+}
+
+.box2 .boxPadding{
+    border: 1px solid color cyan;
+    padding: 25px 50px 75px 100px;
+
+}

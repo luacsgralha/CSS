@@ -1,0 +1,41 @@
+main{
+    margin: auto;
+    max-width: 1000px;
+}
+
+
+.principal{
+    margin: auto;
+    width: 900px;
+    height: 450px;
+    background-color:aquamarine;
+    display: flex;
+}
+
+
+.principal > .um{
+    background-color: blue;
+    width: 450px;
+    height: 450px;
+}
+
+
+.principal > .conteudo{
+    background:black;
+    width: 450px;
+    height: 450px;
+}
+
+
+.principal > .conteudo > .dois{
+    background-color: green;
+    width: 450px;
+    height: 220px;
+}
+
+
+.principal > .conteudo > .dois > .conteudo2{
+    background-color: burlywood;
+    height: 220px;
+    width: 220px;
+}

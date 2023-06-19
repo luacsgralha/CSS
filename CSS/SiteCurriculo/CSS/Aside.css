@@ -1,0 +1,158 @@
+aside
+{
+    flex: 30%;
+    background-color: #fff;
+}
+
+
+aside > .fotopessoal
+{
+    height: 300px;
+    background-image: url(../imagem\ pessoal/imagem.webp);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+}
+
+
+aside > .infopessoal
+{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    grid-template-rows: 40px 40px 40px 40px;
+    align-items: center;
+}
+
+
+.Skills
+{
+    margin: 1em 0 1em 1em ;
+}
+
+
+.Skills > .tituloSkills
+{
+    display: flex;
+}
+
+
+.Skills > .tituloSkills > h2
+{
+    padding-left: 10px;
+}
+
+
+.borda100
+{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #ccc;
+}
+
+
+.preenchimento1
+{
+    background-color: blue;
+    border: 1px solid blue; 
+    border-radius: 10px;
+    width: 95%;
+}
+
+
+.preenchimento2
+
+{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 85%;
+}
+
+
+.preenchimento3
+{
+    background-color: blue;
+    border-radius: 10px;
+    border: 1px solid blue;
+    width: 30%;
+}
+
+
+.preenchimento4
+{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 30%;
+}
+
+
+
+
+.languages
+{
+    margin: 0;
+    padding: 0 1em;
+}
+
+
+.languages > .titulolanguages
+{
+    display: flex;
+}
+
+
+.languages > .titulolanguages > h2
+{
+   padding-left: 10px ;
+}
+
+
+.borda200
+{
+    background-color: #ccc;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 100%;
+    
+}
+
+
+.preenchimento6
+{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 90%;
+}
+
+
+.preenchimento7
+{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10x;
+    width: 85%;
+}
+
+
+.preenchimento8
+{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 50%;
+}
+
+
+.texo
+{
+ background-color: #fff;
+}
+
+
+.texo > .jom
+{
+}

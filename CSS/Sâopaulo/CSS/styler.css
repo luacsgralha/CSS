@@ -1,0 +1,64 @@
+body{
+    background-color: cornsilk;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+main{
+    margin: auto;
+    max-width: 960px; 
+}
+
+h1:hover{
+    background-color: burlywood;
+    color: white;
+}
+aside:hover{
+    background-color: burlywood;
+}
+
+article{
+    float: left;
+    width: 660px;
+}
+
+section{
+    background-color: white;
+    border: 1px solid crimson;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+section h2{
+    background-color: white;
+    border: bottom 1px dashed cornsilk
+}
+
+section img{
+    border: 1px solid chocolate;
+    float:left;
+    margin: 10px 10px 0 0 0;
+    padding: 2px;
+    width: 150px;
+}
+
+.clear{
+    clear: both;
+}
+
+aside {
+    background-color: white;
+    border: 1px solid crimson;
+   float: right;
+    padding:10px;
+    width: 260px;
+}
+
+aside h3{
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+aside ol{
+    font-size:12px;
+}

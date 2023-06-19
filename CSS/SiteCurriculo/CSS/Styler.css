@@ -1,0 +1,33 @@
+:root{
+    --fundo--: #cff4d2;
+    --destaque--: #7be495;
+    --fonte--: 'Roboto', sem serifa;
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-color: var(--fundo--);
+    font-family: var(--fonte--);
+}
+
+
+main{
+    display: flex;
+    margin: auto;
+    max-width: 1330px;
+    padding: 50px;
+}
+
+
+@media (max-width: 400px)
+{
+    main{
+    flex-direction: column;
+    }
+}

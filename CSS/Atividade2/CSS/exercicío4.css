@@ -1,0 +1,21 @@
+header{
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+ 
+.caixa{
+    background-color: blueviolet;
+    height: 300px;
+    width: 35%;
+    display: flex;
+}
+
+
+.caixa2{
+    background-color: gold;
+    height: 350px;
+    width: 55%;
+    flex-direction: column;
+}

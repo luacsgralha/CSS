@@ -1,0 +1,27 @@
+div{
+    background-color: blueviolet;
+    border: 3px solid blueviolet;
+    padding: 50px;
+    width: 100px;
+}
+
+section{
+    border: 1px solid blue;
+}
+
+.img{
+    float: right;
+}
+
+.titulo{
+    clear: right;
+}
+
+.img2{
+    float: right;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
